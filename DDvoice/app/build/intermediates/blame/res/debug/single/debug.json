@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_mic_p.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/mic_p.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_send_btn.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/send_btn.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_send_btn_p.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/send_btn_p.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_bg_chat.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/bg_chat.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_msgbox_rec.9.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/msgbox_rec.9.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_siri_button_running.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/siri_button_running.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/raw_lock.mp3.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/raw/lock.mp3"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_mic.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/mic.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/layout_details_dialog.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/layout/details_dialog.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/raw_begin.mp3.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/raw/begin.mp3"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_siri_button.xml.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/siri_button.xml"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_siri_button_normal.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/siri_button_normal.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_mic_n.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/mic_n.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_msgbox_send.9.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/msgbox_send.9.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_bg_alice.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/bg_alice.png"
+    },
+    {
+        "merged": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/drawable_send_btn_n.png.flat",
+        "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/drawable/send_btn_n.png"
+    }
+]

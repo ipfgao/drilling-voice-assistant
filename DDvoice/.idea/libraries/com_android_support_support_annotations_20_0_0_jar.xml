@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-annotations:20.0.0@jar">
+    <CLASSES>
+      <root url="jar:///media/ipfgao/7d298fac-5077-42d5-b0b8-9c8706427018/home/ipfgao/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///media/ipfgao/7d298fac-5077-42d5-b0b8-9c8706427018/home/ipfgao/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///media/ipfgao/7d298fac-5077-42d5-b0b8-9c8706427018/home/ipfgao/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

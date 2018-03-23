@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Mar 22 08:54:18 CST 2018
+2.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+5.set=ASSET
+0.path=iflytek/voice_full.png
+2.baseType=DIRECTORY
+3.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+2.set=ASSET
+1.path=iflytek/recognize.xml
+4.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+count=6
+5.baseType=DIRECTORY
+2.path=iflytek/voice_empty.png
+5.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+4.set=ASSET
+3.path=iflytek/warning.png
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=iflytek/voice_bg.9.png
+1.baseType=DIRECTORY
+5.path=iflytek/waiting.png
+0.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET

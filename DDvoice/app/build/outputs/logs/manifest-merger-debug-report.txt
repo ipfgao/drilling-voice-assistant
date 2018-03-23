@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+MERGED from [com.android.support:support-v4:20.0.0] /home/ipfgao/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/068a0a1c1b376805f376ed8158bb3426/AndroidManifest.xml:15:1-18:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] /home/ipfgao/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/068a0a1c1b376805f376ed8158bb3426/AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] /home/ipfgao/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/068a0a1c1b376805f376ed8158bb3426/AndroidManifest.xml:16:5-42
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:12:2-63
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:12:19-61
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:14:2-67
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:14:19-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:16:2-75
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:16:19-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:18:2-72
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:18:19-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:20:2-75
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:20:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:22:2-71
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:22:19-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:24:2-68
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:24:19-66
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:26:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:31:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:33:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:35:22-76
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:37:5-77
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:37:22-75
+application
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:39:5-61:19
+MERGED from [com.android.support:support-v4:20.0.0] /home/ipfgao/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/068a0a1c1b376805f376ed8158bb3426/AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] /home/ipfgao/.gradle/caches/transforms-1/files-1.1/support-v4-20.0.0.aar/068a0a1c1b376805f376ed8158bb3426/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:42:9-41
+	android:icon
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:41:9-52
+	android:allowBackup
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:40:9-35
+activity#com.example.ddvoice.MainActivity
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:46:13-45
+	android:configChanges
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:44:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:50:27-74
+activity#com.example.ddvoice.SemanticAnalysis
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:53:6-60:24
+	android:theme
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:55:10-56
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:54:10-42
+intent-filter#android.intent.action.0+android.intent.category.DEFAULT
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:56:13-59:33
+action#android.intent.action.0
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:57:17-66
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:57:25-63
+category#android.intent.category.DEFAULT
+ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from /home/ipfgao/StudioProjects/DDvoice/app/src/main/AndroidManifest.xml:58:27-73

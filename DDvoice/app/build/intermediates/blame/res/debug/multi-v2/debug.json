@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ipfgao/StudioProjects/DDvoice/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "116,55",
+                        "endColumns": "44,60",
+                        "endOffsets": "156,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,60",
+                        "endOffsets": "95,156"
+                    }
+                },
+                {
+                    "source": "/home/ipfgao/StudioProjects/DDvoice/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "161",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "592"
+                    }
+                }
+            ]
+        }
+    ]
+}
